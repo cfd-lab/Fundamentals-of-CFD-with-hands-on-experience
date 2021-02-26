@@ -1,0 +1,83 @@
+Course Description
+This course introduces you to the fundamental theory of computational fluid dynamics with a basic hands on experience of the CFD tools. The course will kick start your CFD journey and will give you flavor of all basic modalities of the CFD. The course is designed in such a way that a coherent linkage is established between a ranges of CFD concepts and practical learning. The course is divided into four modules. The first three modules are focused towards the theoretical understanding of the fundamentals of CFD. The last module is focused towards the practical hands on experience of the CFD tools which familiarize the user with the CFD software.
+
+Course Outcomes:
+
+Learning of governing equations of fluid flow and their derivation
+Learning concepts of discretization and discretization scheme
+Learning of boundary and initial value conditions
+Learning concepts of residuals , convergence and divergence
+Learning fundamental steps of a CFD analysis
+Learning basics of turbulence modelling
+Learning about errors and uncertainties in CFD
+Getting familiar with the CFD tools and techniques.
+ 
+
+Modules:
+
+Fundamentals of CFD with hands on experience is divided into four modules. The contents of each module are summarized below.
+
+ 
+
+Week 1:
+
+In Module-1 following contents will be covered.
+
+Fluids and methods of studying fluids
+Wind tunnel testing and its limitations
+Similarity principle in wind tunnel testing
+Overview of non-linear partial differential equations
+Overview of residuals , convergence and divergence
+Control volume , finite volume and finite difference method
+Boundary and initial value conditions
+Reynolds transport theorem
+ 
+
+Week 2:
+
+Substantial derivative
+Derivation of continuity equation
+Derivation of Navier-Stokes equation
+Derivation of Energy equation
+ 
+
+Week 3:
+
+Discretization and discretization scheme
+Explicit and implicit methods
+Steps for a CFD analysis
+Introduction to turbulence modelling and RANS , LES and DES
+Y+ value and courant number
+Errors in a CFD analysis
+Week 4, 5:
+
+Drag validation of blunt body in CFD tools
+Lift and drag validation of a 2D airfoil
+Lift and drag validation of a 3D rectangular wing
+ 
+
+Who shall attend this course?
+
+Anyone with the engineering and sciences background who is interested to switch between experimental and numerical methods of predicting the behavior of fluids.
+Application & Theory Weightage:
+
+65% Theory – 35% Applied learning
+
+Cases Studies:
+
+3 (three) case studies are included in this course with are mentioned in the last module of the course.
+
+Reference Books:
+
+D.Anderson Computational Fluid Dynamics (An introduction)
+Versteeg, H.K. and Malalasekera, W., 2007. An introduction to computational fluid dynamics: the finite volume method. Pearson education.
+ 
+
+Software:
+
+Following softwares will be covered in this course.
+
+Ansys Design Modeler
+Ansys Mesher/Ansys ICEM CFD
+Ansys Fluent
+Techplot 360
